@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10117" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="nfl-hR-mTX">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <scenes>
+        <!--Play View Controller-->
+        <scene sceneID="G2g-ma-zkm">
+            <objects>
+                <viewController storyboardIdentifier="play" id="nfl-hR-mTX" customClass="PlayViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="SKu-nX-Ce9"/>
+                        <viewControllerLayoutGuide type="bottom" id="RXn-5P-QaO"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Y0u-sb-Nq8">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="vVb-5a-MRW">
+                                <rect key="frame" x="0.0" y="64" width="600" height="253"/>
+                                <color key="backgroundColor" red="0.40000000600000002" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            </imageView>
+                            <pickerView contentMode="scaleToFill" showsSelectionIndicator="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jk1-Md-Qc6">
+                                <rect key="frame" x="0.0" y="317" width="600" height="172"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="172" id="CW0-OY-LDT"/>
+                                </constraints>
+                                <connections>
+                                    <outlet property="dataSource" destination="nfl-hR-mTX" id="zEy-c2-Y49"/>
+                                    <outlet property="delegate" destination="nfl-hR-mTX" id="2hD-2g-ZEM"/>
+                                </connections>
+                            </pickerView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="trailingMargin" secondItem="vVb-5a-MRW" secondAttribute="trailing" constant="-20" id="4nl-XD-ji7"/>
+                            <constraint firstItem="jk1-Md-Qc6" firstAttribute="trailing" secondItem="vVb-5a-MRW" secondAttribute="trailing" id="BSA-vt-qbz"/>
+                            <constraint firstItem="vVb-5a-MRW" firstAttribute="top" secondItem="Y0u-sb-Nq8" secondAttribute="topMargin" constant="64" id="Dfd-fF-bsm"/>
+                            <constraint firstItem="RXn-5P-QaO" firstAttribute="top" secondItem="jk1-Md-Qc6" secondAttribute="bottom" constant="111" id="QQn-fK-ixZ"/>
+                            <constraint firstItem="jk1-Md-Qc6" firstAttribute="leading" secondItem="vVb-5a-MRW" secondAttribute="leading" id="Zp3-Ve-Fa5"/>
+                            <constraint firstItem="vVb-5a-MRW" firstAttribute="leading" secondItem="Y0u-sb-Nq8" secondAttribute="leadingMargin" constant="-20" id="Zsi-UY-aeG"/>
+                            <constraint firstItem="jk1-Md-Qc6" firstAttribute="top" secondItem="vVb-5a-MRW" secondAttribute="bottom" id="n7O-vD-J5n"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="pickerView" destination="jk1-Md-Qc6" id="Swr-TY-eNh"/>
+                        <outlet property="singerImageView" destination="vVb-5a-MRW" id="mCr-kz-PAV"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="XS7-jO-F4X" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="404" y="454"/>
+        </scene>
+    </scenes>
+</document>

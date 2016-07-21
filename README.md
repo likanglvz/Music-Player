@@ -1,4 +1,4 @@
-# Music-Player# Clean-Online
+# Music-Player
 该音乐播放器使用百度音乐的接口，集播放、暂停、停止、上一首、下一首、歌词显示等功能于一体，性能良好
 
 

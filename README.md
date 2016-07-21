@@ -13,13 +13,12 @@
 ##歌手排行界面
 
 ![](http://i1.piimg.com/567571/ea74103a51aad950.png)
-![](http://i1.piimg.com/567571/a906de32dcf80bb2.png)
-
 ![](http://i1.piimg.com/567571/ada0517334bb1c53.png)
+
 ##我的音乐界面
 
 ![](http://i1.piimg.com/567571/ce2c084e073570d6.png)
 ##播放界面
 
 ![](http://i1.piimg.com/567571/50bdca42554f018b.png)
-
+![](http://i1.piimg.com/567571/a906de32dcf80bb2.png)

@@ -5,13 +5,15 @@
 ##音乐排行界面
 ![](http://ww2.sinaimg.cn/large/0060lm7Tgw1f61x8gc1tkj30kq126aib.jpg)
 ##分类享听界面
-![](http://i1.piimg.com/567571/17d763855930fccb.png)
+![](http://ww3.sinaimg.cn/large/0060lm7Tgw1f61x86z7u4j30kk122q9f.jpg)
 ##歌手排行界面
-![](http://i1.piimg.com/567571/ea74103a51aad950.png)
-![](http://i1.piimg.com/567571/a906de32dcf80bb2.png)
-![](http://i1.piimg.com/567571/ada0517334bb1c53.png)
+![](http://ww1.sinaimg.cn/large/0060lm7Tgw1f61x8ge4cqj30km124jx5.jpg)
+![](http://ww4.sinaimg.cn/large/0060lm7Tgw1f61x8dvqt2j30kk124tew.jpg)
+
 ##我的音乐界面
-![](http://i1.piimg.com/567571/ce2c084e073570d6.png)
+![](http://ww1.sinaimg.cn/large/0060lm7Tgw1f61x84e700j30kq122jsw.jpg)
 ##播放界面
-![](http://i1.piimg.com/567571/50bdca42554f018b.png)
+![](http://ww1.sinaimg.cn/large/0060lm7Tgw1f61x8cygykj30kq122dlm.jpg)
+![](http://ww1.sinaimg.cn/large/0060lm7Tgw1f61x8e5w7ej30km122tdj.jpg)
+
 

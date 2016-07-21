@@ -3,7 +3,7 @@
 ##听觉盛宴界面
 ![](http://ww2.sinaimg.cn/large/0060lm7Tgw1f61x8g9687j30ko124qbh.jpg)
 ##音乐排行界面
-![](http://i1.piimg.com/567571/6a8edce4a58ed884.png)
+![](http://ww2.sinaimg.cn/large/0060lm7Tgw1f61x8gc1tkj30kq126aib.jpg)
 ##分类享听界面
 ![](http://i1.piimg.com/567571/17d763855930fccb.png)
 ##歌手排行界面

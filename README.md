@@ -1,7 +1,7 @@
 # Music-Player# Clean-Online
 
 ##听觉盛宴界面
-![](http://i1.piimg.com/567571/fb845bc80339ea92.png)
+![](http://ww2.sinaimg.cn/large/0060lm7Tgw1f61x8g9687j30ko124qbh.jpg)
 ##音乐排行界面
 ![](http://i1.piimg.com/567571/6a8edce4a58ed884.png)
 ##分类享听界面

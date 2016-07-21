@@ -1,5 +1,9 @@
 # Music-Player# Clean-Online
+该音乐播放器使用百度音乐的接口，集播放、暂停、停止、上一首、下一首、歌词显示等功能于一体，性能良好
 
+
+
+#界面截图
 ##听觉盛宴界面
 ![](http://ww2.sinaimg.cn/large/0060lm7Tgw1f61x8g9687j30ko124qbh.jpg)
 ##音乐排行界面
